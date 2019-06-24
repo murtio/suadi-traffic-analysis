@@ -1,0 +1,326 @@
+	region	year	no_accidents	no_casualties_dead	no_casualties_injured	licenses_count
+0	Al-Baha	1993				3270
+1	Al-Baha	1994				2729
+2	Al-Baha	1995				2423
+3	Al-Baha	1996				1468
+4	Al-Baha	1997				3027
+5	Al-Baha	1998				5110
+6	Al-Baha	1999				4246
+7	Al-Baha	2000				4832
+8	Al-Baha	2001				7594
+9	Al-Baha	2002				3335
+10	Al-Baha	2003				3616
+11	Al-Baha	2004				3410
+12	Al-Baha	2005				2698
+13	Al-Baha	2006				3593
+14	Al-Baha	2007				997
+15	Al-Baha	2008				5418
+16	Al-Baha	2009				9815
+17	Al-Baha	2010				7076
+18	Al-Baha	2011				6450
+19	Al-Baha	2012				7593
+20	Al-Baha	2013				7482
+21	Al-Baha	2014				7268
+22	Al-Baha	2015				4856
+23	Al-Baha	2016	3618.0	185.0	1227.0	4614
+24	Al-Baha	2017	1414.0	134.0	1007.0	4131
+25	Al-Jouf	1993				2884
+26	Al-Jouf	1994				2535
+27	Al-Jouf	1995				2270
+28	Al-Jouf	1996				2518
+29	Al-Jouf	1997				3565
+30	Al-Jouf	1998				3476
+31	Al-Jouf	1999				3950
+32	Al-Jouf	2000				4666
+33	Al-Jouf	2001				4756
+34	Al-Jouf	2002				5940
+35	Al-Jouf	2003				3852
+36	Al-Jouf	2004				4601
+37	Al-Jouf	2005				3558
+38	Al-Jouf	2006				4846
+39	Al-Jouf	2007				9097
+40	Al-Jouf	2008				10929
+41	Al-Jouf	2009				10567
+42	Al-Jouf	2010				10937
+43	Al-Jouf	2011				10180
+44	Al-Jouf	2012				10246
+45	Al-Jouf	2013				11602
+46	Al-Jouf	2014				9982
+47	Al-Jouf	2015				10233
+48	Al-Jouf	2016	10212.0	245.0	920.0	9371
+49	Al-Jouf	2017	10469.0	240.0	862.0	8091
+50	Asir	1993				6226
+51	Asir	1994				5185
+52	Asir	1995				4889
+53	Asir	1996				3319
+54	Asir	1997				12204
+55	Asir	1998				13220
+56	Asir	1999				14625
+57	Asir	2000				18622
+58	Asir	2001				20321
+59	Asir	2002				20417
+60	Asir	2003				15693
+61	Asir	2004				17947
+62	Asir	2005				18565
+63	Asir	2006				20330
+64	Asir	2007				10835
+65	Asir	2008				18800
+66	Asir	2009				21582
+67	Asir	2010				21835
+68	Asir	2011				24515
+69	Asir	2012				23136
+70	Asir	2013				29730
+71	Asir	2014				29552
+72	Asir	2015				38567
+73	Asir	2016	32684.0	983.0	2541.0	41367
+74	Asir	2017	25245.0	828.0	2368.0	39133
+75	Eastern Region	1993				9964
+76	Eastern Region	1994				10918
+77	Eastern Region	1995				7831
+78	Eastern Region	1996				8461
+79	Eastern Region	1997				58814
+80	Eastern Region	1998				70650
+81	Eastern Region	1999				64973
+82	Eastern Region	2000				65767
+83	Eastern Region	2001				74119
+84	Eastern Region	2002				85035
+85	Eastern Region	2003				82697
+86	Eastern Region	2004				84984
+87	Eastern Region	2005				82505
+88	Eastern Region	2006				79517
+89	Eastern Region	2007				106511
+90	Eastern Region	2008				104626
+91	Eastern Region	2009				108544
+92	Eastern Region	2010				110295
+93	Eastern Region	2011				151087
+94	Eastern Region	2012				129971
+95	Eastern Region	2013				123325
+96	Eastern Region	2014				121774
+97	Eastern Region	2015				135752
+98	Eastern Region	2016	101619.0	1113.0	4893.0	142307
+99	Eastern Region	2017	81433.0	963.0	4073.0	126816
+100	Hail	1993				10484
+101	Hail	1994				11131
+102	Hail	1995				9735
+103	Hail	1996				10267
+104	Hail	1997				6606
+105	Hail	1998				4708
+106	Hail	1999				3139
+107	Hail	2000				3215
+108	Hail	2001				6077
+109	Hail	2002				5070
+110	Hail	2003				3861
+111	Hail	2004				8656
+112	Hail	2005				16247
+113	Hail	2006				8166
+114	Hail	2007				4021
+115	Hail	2008				7413
+116	Hail	2009				7282
+117	Hail	2010				7637
+118	Hail	2011				9123
+119	Hail	2012				11082
+120	Hail	2013				9731
+121	Hail	2014				10417
+122	Hail	2015				7172
+123	Hail	2016	10199.0	299.0	932.0	54507
+124	Hail	2017	9379.0	265.0	773.0	22035
+125	Jazan	1993				6009
+126	Jazan	1994				3826
+127	Jazan	1995				2284
+128	Jazan	1996				2226
+129	Jazan	1997				5695
+130	Jazan	1998				2613
+131	Jazan	1999				4792
+132	Jazan	2000				5678
+133	Jazan	2001				10631
+134	Jazan	2002				5254
+135	Jazan	2003				5220
+136	Jazan	2004				5016
+137	Jazan	2005				5502
+138	Jazan	2006				7955
+139	Jazan	2007				12634
+140	Jazan	2008				11346
+141	Jazan	2009				9437
+142	Jazan	2010				12270
+143	Jazan	2011				10946
+144	Jazan	2012				11156
+145	Jazan	2013				14175
+146	Jazan	2014				15621
+147	Jazan	2015				13931
+148	Jazan	2016	25873.0	514.0	2259.0	11504
+149	Jazan	2017	22161.0	466.0	2207.0	18345
+150	Madinah	1993				4122
+151	Madinah	1994				3767
+152	Madinah	1995				4155
+153	Madinah	1996				3425
+154	Madinah	1997				10495
+155	Madinah	1998				13020
+156	Madinah	1999				11108
+157	Madinah	2000				9562
+158	Madinah	2001				13561
+159	Madinah	2002				10494
+160	Madinah	2003				12920
+161	Madinah	2004				10556
+162	Madinah	2005				10210
+163	Madinah	2006				11204
+164	Madinah	2007				12174
+165	Madinah	2008				9194
+166	Madinah	2009				11574
+167	Madinah	2010				15045
+168	Madinah	2011				14630
+169	Madinah	2012				14459
+170	Madinah	2013				28513
+171	Madinah	2014				31447
+172	Madinah	2015				22744
+173	Madinah	2016	14475.0	822.0	4184.0	24540
+174	Madinah	2017	16070.0	580.0	2917.0	36165
+175	Makkah	1993				65977
+176	Makkah	1994				75349
+177	Makkah	1995				60356
+178	Makkah	1996				46195
+179	Makkah	1997				76623
+180	Makkah	1998				86082
+181	Makkah	1999				103535
+182	Makkah	2000				87053
+183	Makkah	2001				85593
+184	Makkah	2002				88593
+185	Makkah	2003				74236
+186	Makkah	2004				86636
+187	Makkah	2005				65099
+188	Makkah	2006				66967
+189	Makkah	2007				91902
+190	Makkah	2008				77013
+191	Makkah	2009				112045
+192	Makkah	2010				113531
+193	Makkah	2011				110647
+194	Makkah	2012				143954
+195	Makkah	2013				131108
+196	Makkah	2014				149234
+197	Makkah	2015				157389
+198	Makkah	2016	134838.0	2243.0	12383.0	136055
+199	Makkah	2017	145541.0	1641.0	10623.0	142487
+200	Najran	1993				3769
+201	Najran	1994				3880
+202	Najran	1995				3268
+203	Najran	1996				3274
+204	Najran	1997				3073
+205	Najran	1998				4322
+206	Najran	1999				3959
+207	Najran	2000				4905
+208	Najran	2001				4950
+209	Najran	2002				5117
+210	Najran	2003				4443
+211	Najran	2004				4609
+212	Najran	2005				4779
+213	Najran	2006				5897
+214	Najran	2007				7226
+215	Najran	2008				7938
+216	Najran	2009				6771
+217	Najran	2010				6360
+218	Najran	2011				7314
+219	Najran	2012				9201
+220	Najran	2013				8996
+221	Najran	2014				9601
+222	Najran	2015				1864
+223	Najran	2016	3235.0	173.0	706.0	2153
+224	Najran	2017	3193.0	194.0	766.0	13825
+225	Northern Boarder	1993				1510
+226	Northern Boarder	1994				1457
+227	Northern Boarder	1995				1318
+228	Northern Boarder	1996				1383
+229	Northern Boarder	1997				1531
+230	Northern Boarder	1998				2014
+231	Northern Boarder	1999				2311
+232	Northern Boarder	2000				2894
+233	Northern Boarder	2001				2971
+234	Northern Boarder	2002				2268
+235	Northern Boarder	2003				1705
+236	Northern Boarder	2004				1922
+237	Northern Boarder	2005				1804
+238	Northern Boarder	2006				2573
+239	Northern Boarder	2007				3479
+240	Northern Boarder	2008				3519
+241	Northern Boarder	2009				3649
+242	Northern Boarder	2010				3064
+243	Northern Boarder	2011				4314
+244	Northern Boarder	2012				3706
+245	Northern Boarder	2013				3921
+246	Northern Boarder	2014				5009
+247	Northern Boarder	2015				3837
+248	Northern Boarder	2016	13196.0	193.0	631.0	4958
+249	Northern Boarder	2017	11540.0	112.0	374.0	5280
+250	Qassim	1993				73618
+251	Qassim	1994				68916
+252	Qassim	1995				49690
+253	Qassim	1996				42693
+254	Qassim	1997				10092
+255	Qassim	1998				11350
+256	Qassim	1999				9983
+257	Qassim	2000				12226
+258	Qassim	2001				14718
+259	Qassim	2002				16298
+260	Qassim	2003				10666
+261	Qassim	2004				9390
+262	Qassim	2005				10480
+263	Qassim	2006				12142
+264	Qassim	2007				25174
+265	Qassim	2008				22236
+266	Qassim	2009				27571
+267	Qassim	2010				36737
+268	Qassim	2011				10760
+269	Qassim	2012				11421
+270	Qassim	2013				17889
+271	Qassim	2014				29113
+272	Qassim	2015				13631
+273	Qassim	2016	25664.0	397.0	1513.0	9180
+274	Qassim	2017	22405.0	319.0	1446.0	6318
+275	Riyadh	1993				103886
+276	Riyadh	1994				110545
+277	Riyadh	1995				101608
+278	Riyadh	1996				110131
+279	Riyadh	1997				92145
+280	Riyadh	1998				114962
+281	Riyadh	1999				100291
+282	Riyadh	2000				45345
+283	Riyadh	2001				13090
+284	Riyadh	2002				25423
+285	Riyadh	2003				26076
+286	Riyadh	2004				23479
+287	Riyadh	2005				23245
+288	Riyadh	2006				36059
+289	Riyadh	2007				36261
+290	Riyadh	2008				36798
+291	Riyadh	2009				38014
+292	Riyadh	2010				31378
+293	Riyadh	2011				27772
+294	Riyadh	2012				23888
+295	Riyadh	2013				165994
+296	Riyadh	2014				194208
+297	Riyadh	2015				24548
+298	Riyadh	2016	141736.0	1430.0	4207.0	242851
+299	Riyadh	2017	99925.0	1399.0	4540.0	495307
+300	Tabouk	1993				3174
+301	Tabouk	1994				3282
+302	Tabouk	1995				2051
+303	Tabouk	1996				2263
+304	Tabouk	1997				5426
+305	Tabouk	1998				6823
+306	Tabouk	1999				5298
+307	Tabouk	2000				8473
+308	Tabouk	2001				6344
+309	Tabouk	2002				8794
+310	Tabouk	2003				9873
+311	Tabouk	2004				7532
+312	Tabouk	2005				6511
+313	Tabouk	2006				8259
+314	Tabouk	2007				11045
+315	Tabouk	2008				14928
+316	Tabouk	2009				9424
+317	Tabouk	2010				10345
+318	Tabouk	2011				12820
+319	Tabouk	2012				11391
+320	Tabouk	2013				12848
+321	Tabouk	2014				12188
+322	Tabouk	2015				915
+323	Tabouk	2016	16031.0	434.0	1724.0	13610
+324	Tabouk	2017	11713.0	348.0	1243.0	10232
